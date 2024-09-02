@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Oxygen+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
 
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'oxygen mono';
+	--font: 'ubuntu sans mono';
 
 	/* top left corner text */
 	--corner-text: 'Midnight';
