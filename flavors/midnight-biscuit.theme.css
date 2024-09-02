@@ -12,12 +12,12 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
-@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+@import url('https://PercyPanleo.github.io/midnight-discord/midnight.css');
 
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'Ubuntu Sans Mono';
+	--font: 'ubuntu sans mono';
 
 	/* color of status indicators and window controls */
 	--online-indicator: #d0d694; /* change to #23a55a for default green */
